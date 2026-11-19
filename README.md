@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Fabricio 👋
 
-<!--
-**Fabricio1404/Fabricio1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Tecnicatura Superior en Desarrollo de Software Multiplataforma en el Instituto Politécnico Formosa (Argentina).
+Me gusta construir aplicaciones completas, del backend a la app móvil, y trabajar en proyectos reales para clientes.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** TypeScript, JavaScript, Python
+- **Frontend y mobile:** React, React Native
+- **Backend:** Node.js, Express
+- **Bases de datos:** MongoDB, Redis
+- **Otros:** Git, programación orientada a objetos, principios SOLID
+
+## Proyectos destacados
+
+- **CIT Nexus**: plataforma de gestión científico-tecnológica desarrollada para el CIT Formosa (repo privado).
+- **Sistema de reservas DM Fútbol 5**: sistema en producción para reservar canchas de fútbol 5, con bot de reservas (repo privado).
+- **[Agenda de turnos](https://github.com/Fabricio1404/react-native-2-tp2-agenda-turnos)**: app en React Native para gestionar los turnos de una barbería.
+- **[Predicción de diabetes](https://github.com/Fabricio1404/diabetes-prediccion)**: modelo de machine learning en Python.
+- **[Sistema distribuido con caché Redis](https://github.com/Fabricio1404/Sistema-Distribuido-Cache-Redis-Augusto-Fabricio)**: arquitectura distribuida con caché.
+
+## Contacto
+
+📍 Formosa, Argentina

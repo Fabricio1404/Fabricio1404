@@ -8,8 +8,8 @@ Me gusta construir aplicaciones completas, del backend a la app móvil, y trabaj
 - **Lenguajes:** TypeScript, JavaScript, Python
 - **Frontend y mobile:** React, React Native
 - **Backend:** Node.js, Express
-- **Bases de datos:** MongoDB, Redis
-- **Otros:** Git, programación orientada a objetos, principios SOLID
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Redis
+- **Herramientas y buenas prácticas:** Git, programación orientada a objetos, principios SOLID
 
 ## Proyectos destacados
 
